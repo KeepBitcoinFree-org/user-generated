@@ -88,7 +88,7 @@
 }
 #usergenbcn-paperarea .artwallet .btcaddress.first { left: 264px; }
 #usergenbcn-paperarea .artwallet .btcaddress.second { left: 254px; }
-#usergenbcn-paperarea .artwallet .btcaddress-last4 { position: absolute; width: 40px; top: 633px; left: 70px; z-index: 100; font-size: 11px; background-color: transparent; font-weight: normal; color: #000000; margin: 0;
+#usergenbcn-paperarea .artwallet .btcaddress-last4 { position: absolute; width: 40px; top: 633px; left: 70px; z-index: 150; font-size: 11px; background-color: transparent; font-weight: normal; color: #000000; margin: 0;
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
@@ -115,7 +115,8 @@
     -o-transform-origin:top left;      -o-transform:rotate(-90deg);
     transform-origin:top left;         transform:rotate(-90deg);
 }
-#usergenbcn-paperarea .artwallet .portraitFrame { top: 186px; left: 251px; z-index: 120; margin: 0; float: none; display: block; position: absolute; height: 154px; width: 228px;
+
+#usergenbcn-paperarea .artwallet .portraitFrame { top: 187px; left: 251px; z-index: 120; margin: 0; float: none; display: block; position: absolute; height: 154px; width: 228px;
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
@@ -129,15 +130,15 @@
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
-#usergenbcn-paperarea .artwallet .paperface { top: 186px; left: 269px; z-index: 100; margin: 0; float: none; display: flex; position: absolute; height: 152px; width: 190px;
+#usergenbcn-paperarea .artwallet .paperface { top: 188px; left: 264px; z-index: 100; margin: 0; float: none; display: flex; position: absolute; height: 152px; width: 203px;
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
-#usergenbcn-paperarea .artwallet .paperface .paperfaceimage { max-height: 152px; max-width: 190px; display: block; margin: auto; }
-#usergenbcn-paperarea .artwallet .logo-text { left: 368px; font-size: 6.5px; top: 117px; z-index: 110; margin: 0; float: none; display: block; position: absolute; width: 120px; text-align: center; color: #000000;
+#usergenbcn-paperarea .artwallet .paperface .paperfaceimage { max-height: 152px; max-width: 203px; display: block; margin: auto; }
+#usergenbcn-paperarea .artwallet .logo-text { left: 368px; font-size: 6.5px; top: 117px; z-index: 150; margin: 0; float: none; display: block; position: absolute; width: 120px; text-align: center; color: #000000;
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
